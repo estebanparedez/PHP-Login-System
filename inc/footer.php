@@ -8,4 +8,5 @@
 <!-- UIkit CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.4.1/dist/css/uikit.min.css" />
 
+<script type="/assets/js/main.js"></script>
 
