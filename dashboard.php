@@ -1,12 +1,12 @@
 <?php 
 
-	// Allow the config
-	define('__CONFIG__', true);
-	// Require the config
-	require_once "inc/config.php"; 
+  // Allow the config
+  define('__CONFIG__', true);
+  // Require the config
+  require_once "inc/config.php"; 
 
-	echo $_SESSION['user_id'] . ' is your user id';
-	exit;
+  echo $_SESSION['user_id'] . ' is your user id';
+  exit;
 
 ?>
 
@@ -26,10 +26,10 @@
 
   <body>
 
-  	<div class="uk-section uk-container">
-  		
-  	</div>
+    <div class="uk-section uk-container">
+      
+    </div>
 
-  	<?php require_once "inc/footer.php"; ?> 
+    <?php require_once "inc/footer.php"; ?> 
   </body>
 </html>
